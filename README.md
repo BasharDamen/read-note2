@@ -13,9 +13,10 @@ To create a heading, add one to six `#` symbols before your heading text. The mo
 ###### H6 Heading
 ```
 and that will result in: 
- # H1 heading
- ## H2 Heading
- ###### H6 Heading
+
+# H1 heading
+## H2 Heading
+###### H6 Heading
 
 2. ### Emphasis ###
 ```
