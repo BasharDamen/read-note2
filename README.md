@@ -1,7 +1,5 @@
-# read-note2
-
 # Markdown #
-**markdown** is a way that used by [GitHub](https://github.com) which has been designed generally for developer to stylish their contents simply. It allows its users to control the display of the document; formatting their words as **blod** or _italic_, adding images, creating lists,...., etc.
+**Markdown** is a way that used by [GitHub](https://github.com) which has been designed generally for developer to stylish their contents simply. It allows its users to control the display of the document; formatting their words as **blod** or _italic_, adding images, creating lists,...., etc.
 It also provid the users with the ability to store their own files and folders where they can editting, moving, reclassifying them easily.
 
 ## Syntax guide ##
